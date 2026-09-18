@@ -202,3 +202,10 @@ Probabilistic MoE & ZINB Decoder: Discriminates technical sequencing dropouts fr
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 For any questions or issues regarding the code or datasets, please open an issue in this repository.
+
+## 📦 Data & Model Weights Availability
+
+Due to GitHub's storage limitations for large files, the full spatial transcriptomics datasets (HER2+ and cSCC) and our pre-trained model checkpoints are not directly hosted in this repository. 
+
+To request access to the complete raw datasets, processed data matrices, and the pre-trained MorphoGeneST model weights, please contact us via email at: 
+📧 **[202454012@bipt.edu.cn](mailto:202454012@bipt.edu.cn)**
